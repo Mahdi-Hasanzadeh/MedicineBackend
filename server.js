@@ -30,7 +30,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://radiant-horse-63e982.netlify.app",
+      "https://elaborate-fox-437548.netlify.app/",
     ],
     credentials: true,
   })
